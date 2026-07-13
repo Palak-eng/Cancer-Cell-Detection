@@ -1,0 +1,6 @@
+Cancer_Dataset/          ← the dataset, per your last question — never push this
+*.pyc
+__pycache__/             ← Python bytecode cache, no reason to version-control this
+.streamlit/secrets.toml  ← if you ever add API keys or secrets, this keeps them out of Git
+.venv/
+venv/                    ← your local virtual environment folder
