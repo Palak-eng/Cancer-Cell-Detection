@@ -22,7 +22,7 @@ EfficientNetB0 model and deployed as an interactive Streamlit app.
 
 ## 🖥️ Demo
 
-Live app: _[add your Streamlit Cloud / Hugging Face Spaces link here after deployment]_
+https://cancer-cell-detection-lzb0.onrender.com/
 
 ---
 
@@ -130,21 +130,6 @@ emoji.
 
 ---
 
-## ☁️ Deployment
-
-This app is designed to deploy easily on
-[Streamlit Community Cloud](https://share.streamlit.io):
-
-1. Push this repo to GitHub (the dataset should **not** be included — see
-   `.gitignore`).
-2. Go to share.streamlit.io, sign in with GitHub, and create a new app
-   pointing to `app.py`.
-3. Streamlit Cloud installs dependencies from `requirements.txt`
-   automatically and gives you a public URL.
-
-Other supported options: Hugging Face Spaces, Render.
-
----
 
 ---
 
